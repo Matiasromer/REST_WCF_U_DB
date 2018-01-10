@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_WCF_U_DB", "REST_WCF_U_DB\REST_WCF_U_DB.csproj", "{51DF6594-85EA-4419-B43E-63A98DE4934B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{221D3B1E-D159-4408-9659-E5A4D27E8EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51DF6594-85EA-4419-B43E-63A98DE4934B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DF6594-85EA-4419-B43E-63A98DE4934B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DF6594-85EA-4419-B43E-63A98DE4934B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DF6594-85EA-4419-B43E-63A98DE4934B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221D3B1E-D159-4408-9659-E5A4D27E8EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221D3B1E-D159-4408-9659-E5A4D27E8EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221D3B1E-D159-4408-9659-E5A4D27E8EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221D3B1E-D159-4408-9659-E5A4D27E8EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
